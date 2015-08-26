@@ -1,0 +1,21 @@
+[
+  {
+    "id" : "kroman",
+    "caption" : "Kroman",
+    "children": [
+      {
+        "command" : "kroman_replace_region",
+        "caption" : "Romanize Region"
+      },
+      {
+        "command" : "kroman_replace_file",
+        "caption" : "Romanize This File"
+      },
+      {
+        "command" : "kroman_compare_file",
+        "caption" : "Romanize File And Compare"
+      }
+    ]
+
+  }
+]
